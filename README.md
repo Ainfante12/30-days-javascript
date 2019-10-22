@@ -1,1 +1,1 @@
-# 30-days-javascrip
+# 30-days-javascript
